@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WhatsApp Web
+Comment=WhatsApp Web Client
+Exec=whatsapp
+Icon=whatsapp
+Type=Application
+Categories=Network;InstantMessaging;
+StartupNotify=true
+MimeType=x-scheme-handler/whatsapp;
